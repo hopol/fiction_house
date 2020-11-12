@@ -202,16 +202,6 @@ novel-admin ：平台后台管理系统源码（独立项目，按需安装）
 
  GitHub仓库地址：  https://github.com/201206030/fiction_house 
 
-#### QQ交流群
-
-![mini-code](https://s1.ax1x.com/2020/10/31/BUQVeI.png)
-
-#### 捐赠支持
-
-开源项目不易，若此项目能得到你的青睐，可以捐赠服务器费用及支持作者持续开发与维护。 
-
-![mini-code](https://s1.ax1x.com/2020/10/31/BUQJwq.png)
-
 ##### 捐赠名单 
 
 | 捐赠者 | 金额     | 时间                        |
@@ -238,6 +228,5 @@ novel-admin ：平台后台管理系统源码（独立项目，按需安装）
 
 精品小说屋所有相关项目均已在开源中国公开，感兴趣的可进入[开源中国](https://www.oschina.net/p/fiction_house)按关键字`精品小说屋`搜索。
 
-[![index]( https://s1.ax1x.com/2020/07/03/NOSuMF.jpg)](https://www.aliyun.com/minisite/goods?userCode=uf4nasee )
 
 # 部分截图在github上可能无法正常显示，请下载到本地查看。
